@@ -1,6 +1,7 @@
 Upload a handwritten text file to get back results of your mutual fund portfolio records.
 
-your text file `myfilename.txt` file should contain the data as follows:
+Just drop your .txt files in the `drop-files-here` folder. 
+Those files should contain the data as follows:
 
 ```
 .

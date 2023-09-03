@@ -1,4 +1,4 @@
-Upload a handwritten text file to get back results of your mutual fund portfolio records.
+Upload your handwritten text files to get back results of your stock/mutual fund portfolio records.
 
 Just drop your .txt files in the `drop-files-here` folder. 
 Those files should contain the data as follows:
